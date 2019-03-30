@@ -2,4 +2,4 @@
 
 **Updates:**
 
-*28/03/2019:* FAISS kNN implementation has been speeded-up 18x times by using inverted flat index with training.
+*28/03/2019:* FAISS kNN implementation has been speeded-up 118x times by using inverted flat index with training.
